@@ -12,3 +12,8 @@ Notes:
 - Entry ditulis draf lalu direvisi di pesan kemudian (guard blank-entry ditambahkan via edit) — two-message gate terpenuhi.
 
 Status: built, pending coordinator bundle+submit
+
+- Submission ID: 01a20fba-07dd-76cf-95d6-a43777b335ff
+- Bundle: /home/hatch/workspace/makefun/u-nayyy-roast-your-own-agent-4c3d413c-bundle.tar.gz
+- Status: submitted (see status output in finish-batch0516-a2.log)
+- Submitted: 2026-11-25 WIB (round 2, builder+finisher sessions)
